@@ -1,10 +1,8 @@
-*.csv
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .DS_Store
 *.xlsx
 *.xls
-data/
 .vscode/
 *.egg-info/

@@ -1,6 +1,6 @@
 # Machine Learning - Phân Tích & Dự Đoán
 
-Repository này chứa mã nguồn và tài liệu cho đồ án Machine Learning (Năm 2), tập trung vào hai mốc giải quyết các bài toán trọng tâm là: **Phân loại (Classification)** và **Hồi quy (Regression)**. 
+Repository này chứa mã nguồn và tài liệu cho bài tập Machine Learning , tập trung vào hai mốc giải quyết các bài toán trọng tâm là: **Phân loại (Classification)** và **Hồi quy (Regression)**. 
 
 ---
 
